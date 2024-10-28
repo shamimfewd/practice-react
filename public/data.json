@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Headphones",
+    "image": "https://www.w3schools.com/css/img_5terre.jpg",
+    "price": 49.99,
+    "category": "Electronics",
+    "description": "Portable Bluetooth speaker with high-quality sound, built-in microphone, and a 10-hour battery life."
+  },
+  {
+    "id": 2,
+    "title": "Organic Cotton T-Shirt",
+    "image": "https://www.w3schools.com/css/img_5terre.jpg",
+    "price": 19.99,
+    "category": "Apparel",
+    "description": "Portable Bluetooth speaker with high-quality sound, built-in microphone, and a 10-hour battery life."
+  },
+  {
+    "id": 3,
+    "title": "Stainless Steel Water Bottle",
+    "image": "https://www.w3schools.com/css/img_5terre.jpg",
+    "price": 14.99,
+    "category": "Accessories",
+    "description": "Portable Bluetooth speaker with high-quality sound, built-in microphone, and a 10-hour battery life."
+  },
+  {
+    "id": 4,
+    "title": "Wooden Desk Organizer",
+    "image": "https://www.w3schools.com/css/img_5terre.jpg",
+    "price": 24.99,
+    "category": "Office Supplies",
+    "description": "Portable Bluetooth speaker with high-quality sound, built-in microphone, and a 10-hour battery life."
+  },
+  {
+    "id": 5,
+    "title": "Noise Cancelling Earplugs",
+    "image": "https://www.w3schools.com/css/img_5terre.jpg",
+    "price": 9.99,
+    "category": "Health",
+    "description": "Portable Bluetooth speaker with high-quality sound, built-in microphone, and a 10-hour battery life."
+  },
+  {
+    "id": 6,
+    "title": "Bluetooth Speaker",
+    "image": "https://www.w3schools.com/css/img_5terre.jpg",
+    "price": 39.99,
+    "category": "Electronics",
+    "description": "Portable Bluetooth speaker with high-quality sound, built-in microphone, and a 10-hour battery life."
+  }
+]

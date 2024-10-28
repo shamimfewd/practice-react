@@ -1,5 +1,13 @@
+import Hero from "./Hero";
+import Products from "./Products";
+
 const Home = () => {
-  return <div>home</div>;
+  return (
+    <div>
+      <Hero />
+      <Products />
+    </div>
+  );
 };
 
 export default Home;
